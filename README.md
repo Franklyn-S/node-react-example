@@ -1,7 +1,7 @@
 # node-react-example
 
 
-To run locally, run this commands on terminal  
+To run locally, run these commands on terminal  
 ```npm i```  
 ```cd client```  
 ```npm i```  
